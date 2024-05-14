@@ -20,11 +20,6 @@
             Console.WriteLine(firstPersonBirtdate);
             Console.WriteLine(firstPersonBirtdate);
             Console.WriteLine(firstPersonBirtdate);
-            Console.WriteLine(firstPersonBirtdate);
-            Console.WriteLine(firstPersonBirtdate);
-
-
-
 
 
 
